@@ -17,7 +17,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/city-project.git
+git clone https://github.com/Nehajacob44/City-AQI-Power-BI
 cd city-project
 
 Open the Power BI file:
